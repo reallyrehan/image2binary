@@ -12,4 +12,4 @@ The output.txt file will be saved your current working directory.
 
 Here is a sample input and output,
 
-![Demo](ddemoOutput.jpg)
+![Demo](demoOutput.jpg)
