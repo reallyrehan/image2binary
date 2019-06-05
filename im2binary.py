@@ -11,8 +11,8 @@ import os
 import numpy
 import sys
 
-SIZE = 200, 200
-IMAGEPATH = '123.jpg'
+SIZE = 128, 128
+IMAGEPATH = 'input.jpg'
 
 img = Image.open(IMAGEPATH).convert('LA')
 img.thumbnail(SIZE, Image.ANTIALIAS)
